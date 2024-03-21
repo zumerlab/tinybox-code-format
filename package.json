@@ -1,0 +1,15 @@
+{
+  "name": "@tinybox/code-format",
+  "version": "0.1.0",
+  "description": "",
+  "main": "./bin/index.js",
+  "bin": "./bin/index.js",
+  "scripts": {
+    "start": "./bin/index.js"
+  },
+  "author": "Juan Martin Muda",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^3.2.5"
+  }
+}
