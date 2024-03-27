@@ -1,6 +1,10 @@
 # @zumerbox/code-format
 
-A tool for automatically formatting your code to maintain consistency.
+This tool is designed to facilitate code formatting using Prettier, a popular code formatting tool. It checks the formatting of JavaScript, HTML, and Markdown files within specified directories and their subdirectories.
+
+
+Refer to the [ZumerBox bundle](https://github.com/zumerlab/zumerbox) for more information and tools.
+
 
 ## Installation
 
@@ -14,4 +18,10 @@ npm install @zumerbox/code-format --save-dev
 npx @zumerbox/code-format
 ```
 
-Refer to the [ZumerBox bundle](https://github.com/zumerlab/zumerbox) for more information.
+## Options
+
+By default Prettier is instructed to perform a check without making any changes to the files. To fix any formatting issues run `@zumerbox/code-format` again with the `--write` argument to fix code style.
+
+## Credits
+
+This tool is powered by Prettier (https://prettier.io)
