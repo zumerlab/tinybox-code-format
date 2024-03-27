@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. 
 
+#### [v0.1.2](https://github.com/zumerlab/zumerbox-code-format/compare/v0.1.1...v0.1.2)
+
+> 27 March 2024
+
+- Chore: update toold and docs [`0a4f7a3`](https://github.com/zumerlab/zumerbox-code-format/commit/0a4f7a3cd55a01f6ac34e54e4a50a75341eaf10b)
+- Bumped version [`8824e62`](https://github.com/zumerlab/zumerbox-code-format/commit/8824e62cab617358bdcc65aa50ec2dcd4d7283b1)
+
 #### [v0.1.1](https://github.com/zumerlab/zumerbox-code-format/compare/v0.1.0...v0.1.1)
 
 > 25 March 2024
